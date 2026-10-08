@@ -1,0 +1,45 @@
+
+BenchLab — Resumo executivo
+Incubadora de projetos para transformar o período de bench em desenvolvimento, inovação e geração de ativos reutilizáveis.
+Situação: Not started
+Fase atual: proposta inicial e preparação para validação
+Horizonte sugerido: piloto de três meses
+Visão executiva
+O BenchLab propõe a criação de uma incubadora interna para aproveitar de forma estruturada o período entre alocações. Em vez de manter profissionais qualificados em espera, a iniciativa os direciona para projetos pequenos e reais — como ferramentas internas, provas de conceito, demos e aceleradores — que desenvolvem competências, estimulam inovação e geram valor reaproveitável para a empresa.
+A proposta responde simultaneamente a duas necessidades: oferecer rotina, propósito e evolução técnica às pessoas no bench; e converter capacidade disponível em ativos que possam apoiar projetos, propostas comerciais e futuras alocações.
+Problema e oportunidade
+O período de bench pode resultar em ociosidade, ansiedade sobre a próxima alocação e risco de defasagem técnica. Ao mesmo tempo, representa uma capacidade profissional já existente que permanece subutilizada enquanto novas demandas não são confirmadas.
+O BenchLab transforma esse intervalo em uma janela de experimentação com menor pressão operacional, permitindo que os participantes testem tecnologias, proponham melhorias e desenvolvam soluções que nem sempre teriam espaço em projetos de clientes.
+Modelo proposto
+A operação seria organizada em duas frentes complementares:
+
+1. Projetos correntes: iniciativas de escopo reduzido, com entregas rápidas e aplicação prática, executadas pelos profissionais disponíveis no bench.
+2. Banco de ideias: canal aberto para submissão de propostas, com avaliação breve e critérios transparentes antes da entrada no portfólio de projetos.
+Para assegurar continuidade apesar da rotatividade das equipes, cada iniciativa teria um responsável fixo fora do bench. O trabalho seria dividido em ciclos de uma a duas semanas, com README, backlog, decisões e registro de transição mantidos atualizados.
+Valor esperado
+
+Dimensão	Resultado esperado
+Pessoas	Maior senso de propósito durante o bench, prática contínua, aprendizado de novas tecnologias, avanço em certificações e evidências concretas de experiência para futuras alocações.
+Empresa	Melhor aproveitamento da capacidade disponível, fortalecimento da motivação e da retenção, além da criação de demos, provas de conceito e aceleradores reutilizáveis.
+Inovação	Ambiente para experimentação, colaboração entre áreas e evolução incremental das soluções com contribuições de profissionais com experiências diferentes.
+Comercial	Possibilidade de utilizar resultados e ativos produzidos como vitrine ou apoio em propostas comerciais.
+
+Piloto recomendado
+A recomendação é executar um piloto de três meses, com dois ou três projetos, mantendo o banco de ideias aberto durante o período.
+O piloto deve validar três pontos centrais:
+
+- Adesão: participação, permanência e colaboração dos profissionais.
+- Entrega: iniciativas concluídas, ativos produzidos e qualidade da documentação.
+- Experiência: percepção dos participantes sobre aprendizado, propósito, preparação para alocação e continuidade do modelo.
+Governança e riscos principais
+
+Tema	Diretriz proposta
+Continuidade	Designar um responsável fixo por projeto, externo ao bench, para preservar direcionamento e decisões.
+Rotatividade	Trabalhar em ciclos curtos e exigir documentação mínima de backlog, decisões, estado atual e próximos passos.
+Seleção de ideias	Adotar avaliação breve, critérios conhecidos e uma fila priorizada de iniciativas.
+Escopo	Priorizar projetos pequenos, demonstráveis e compatíveis com mudanças frequentes na composição da equipe.
+Medição	Acompanhar participação, entregas e avaliação da experiência ao longo do piloto.
+
+Próximas decisões
+Antes do início do piloto, a liderança deverá validar o patrocinador do programa, os critérios de entrada e priorização das ideias, a disponibilidade dos responsáveis fixos e os indicadores de sucesso. A proposta já tem uma conversa de validação prevista com Josias de Alvarenga e Marco Antonio De Assis em Tue, Oct 13.
+Com essas definições, o BenchLab poderá iniciar em escala controlada, gerar evidências sobre seu valor e fornecer uma base concreta para decidir sua continuidade ou expansão.
