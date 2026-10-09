@@ -1,4 +1,4 @@
-# BenchLab
+# benchLab
 
 > Um espaço para aprender, experimentar, construir e compartilhar.
 >
@@ -6,9 +6,9 @@
 
 ---
 
-## O que é o BenchLab?
+## O que é o benchLab?
 
-O BenchLab é uma iniciativa criada para transformar o período de bench em um ambiente de experimentação prática, colaboração e desenvolvimento contínuo.
+O benchLab é uma iniciativa criada para transformar o período de bench em um ambiente de experimentação prática, colaboração e desenvolvimento contínuo.
 
 A proposta parte de uma ideia simples:
 
@@ -16,7 +16,7 @@ A proposta parte de uma ideia simples:
 >
 > Elas deveriam ter um espaço para explorar ideias, aprender, criar e contribuir.
 
-Inspirado em laboratórios universitários, grupos de pesquisa e comunidades técnicas, o BenchLab incentiva a curiosidade, a troca de conhecimento e a construção coletiva de soluções.
+Inspirado em laboratórios universitários, grupos de pesquisa e comunidades técnicas, o benchLab incentiva a curiosidade, a troca de conhecimento e a construção coletiva de soluções.
 
 ---
 
@@ -34,7 +34,7 @@ Transformar o bench em um ambiente onde:
 
 ## Como funciona?
 
-O BenchLab não é uma fábrica de projetos.
+O benchLab não é uma fábrica de projetos.
 
 Também não é uma squad temporária.
 
@@ -61,7 +61,7 @@ O foco está na descoberta, no aprendizado e na evolução contínua.
 
 Toda inovação começa com uma pergunta.
 
-Por isso, o BenchLab mantém um banco aberto de ideias onde qualquer pessoa pode propor:
+Por isso, o benchLab mantém um banco aberto de ideias onde qualquer pessoa pode propor:
 
 - problemas a serem investigados;
 - melhorias internas;
@@ -162,4 +162,4 @@ Queremos criar um ambiente onde as pessoas possam se desenvolver enquanto geram 
 
 ## Em uma frase
 
-> O BenchLab transforma períodos de espera em oportunidades de aprendizado, experimentação e inovação.
+> O benchLab transforma períodos de espera em oportunidades de aprendizado, experimentação e inovação.
